@@ -4,7 +4,7 @@ import 'package:flutter_agenda_contatos/ui/home_page.dart';
 
 void main() {
   runApp(MaterialApp(
-    home: ContactPage(),
+    home: HomePage(),
     debugShowCheckedModeBanner: false, //remove o baner debug
   ));
 }
